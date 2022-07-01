@@ -1,0 +1,32 @@
+.skill-container{
+    width: 100%;
+    background: #ddd;
+    font-size: 15px;
+    margin-top: 20px;
+  }
+.skill {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+  } 
+.html {
+    width:50% ;
+    background-color: violet;
+  }
+.css {
+    width:45% ;
+    background-color: rgb(93, 62, 217);
+  }
+.js {
+    width:10% ;
+    background-color: rgb(63, 196, 232);
+  }
+.cc {
+    width:10% ;
+    background-color: rgb(10, 187, 75);
+}
+.val {
+    width: 30% ;
+    background-color: rgb(219, 10, 10);
+}
